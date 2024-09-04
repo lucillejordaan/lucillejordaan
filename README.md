@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Analytics and Software Engineering
 - 🌱 I’m currently learning Django, PowerBI, AWS
 - 💞️ I’m looking to collaborate on Analytical projects and Design projects
-- 📫 How to reach me: [LinkedIn]("https://www.linkedin.com/in/lucillejordaan/")
+- 📫 How to reach me: https://www.linkedin.com/in/lucillejordaan/
 - ⚡ Fun fact: I am a farmgirl! 😊.
 
 <!---
